@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently exploring web development and building personal projects to improve my skills.<br><br>🧑‍💻 I’m looking to collaborate on front-end projects that help me grow as a developer.<br><br>📚 I’m always open to learning new tools and best practices from more experienced devs.<br><br>🛠️ I’m taking some time to deepen what I’ve already learned — especially React, JavaScript, and TypeScript.<br><br>🧠 Fun fact: I joined a coding competition when I was 16, then studied Advertising and worked in marketing — now I’m reconnecting with my tech roots.
+💻 I’m currently exploring web development and building personal projects to improve my skills.<br><br>🧑‍💻 I’m looking to collaborate on front-end projects that help me grow as a developer.<br><br>📚 I’m always open to learning new tools and best practices from more experienced devs.<br><br>🛠️ I’m taking some time to deepen what I’ve already learned, especially React, JavaScript, and TypeScript.<br><br>🧠 Fun fact: I joined a coding competition when I was 16, then studied Advertising and worked in marketing. Now I’m reconnecting with my tech roots 🤓
 
 
 ## 🌐 Socials:
